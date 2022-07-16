@@ -32,8 +32,3 @@ for i in range(8):
     t.forward(37.5)
     t.left(90)
     t.forward(600)
-
-
-    
-
-
