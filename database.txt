@@ -1,0 +1,6 @@
+12345	soap		5.25
+23456	lotion		7.00
+34567	bath bomb	2.25
+45678	lip butter	1.50
+
+
